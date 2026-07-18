@@ -1,0 +1,8 @@
+s
+d
+Shift_L
+A
+Caps_Lock
+[SPACE]
+4
+5
